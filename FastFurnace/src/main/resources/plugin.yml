@@ -1,0 +1,8 @@
+name: FastFurnace
+main: com.github.ZXSkelobrine.FastFurnace.FastFurnace
+version: 0.0.1
+commands:
+    fastfurnace:
+      description: Do wand stuff.
+      usage: /fastfurnace
+      alias: /ff
