@@ -1,0 +1,3 @@
+#This is the config file for FastFurnace
+#Set this value as the cooldown for the FastFurnace ability:
+cooldown: 10
